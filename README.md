@@ -8,8 +8,6 @@
 
 ---
 
-![Logo](assets/kpi_logo.png)
-
 A Streamlit-powered dashboard for forecasting financial KPIs and tracking portfolio risk using Prophet, yFinance, and Plotly.
 
 ---
