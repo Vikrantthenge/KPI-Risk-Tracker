@@ -23,13 +23,6 @@ A Streamlit-powered dashboard for forecasting financial KPIs and tracking portfo
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [Launch the App](https://kpi-risk-tracker-finance.streamlit.app/)  
-📱 Perfect for QR badge, resume, and LinkedIn portfolio
-
----
-
 ## 🧰 Tech Stack
 
 | Tool        | Purpose                          |
