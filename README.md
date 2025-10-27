@@ -1,6 +1,6 @@
 # 📊 KPI Forecast & Risk Tracker
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Finance](https://img.shields.io/badge/Finance%20Analytics-KPI%20Tracker-blueviolet?style=for-the-badge)]()
 
 [![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://kpi-risk-tracker-finance.streamlit.app/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
